@@ -1,6 +1,7 @@
 # Nkosingiphile Nkabinde - Personal Portfolio Website
 
 Welcome to my personal portfolio website! This site showcases my journey, skills, achievements, and projects as an aspiring software developer and data scientist.
+💻 Check it out here: https://nkosingiphilenkabinde.netlify.app/
 
 ---
 
@@ -49,6 +50,8 @@ I actively use platforms like LinkedIn Learning and YouTube to keep my skills cu
 3. Confirm your email address is set correctly in the contact form's Formspree `action` attribute.
 4. Deploy the site on platforms like GitHub Pages, Netlify, or Vercel for free hosting.
 5. Visit your live site URL to test the full functionality, including the contact form.
+
+
 
 ---
 
