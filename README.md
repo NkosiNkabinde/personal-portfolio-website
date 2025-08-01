@@ -49,7 +49,7 @@ I actively use platforms like LinkedIn Learning and YouTube to keep my skills cu
 2. Update the image paths in the `images` folder as needed.
 3. Confirm your email address is set correctly in the contact form's Formspree `action` attribute.
 4. Deploy the site on platforms like GitHub Pages, Netlify, or Vercel for free hosting.
-5. Visit your live site URL to test the full functionality, including the contact form.
+5. VisitMy live site URL to test the full functionality, including the contact form.
 
 
 
